@@ -1,4 +1,3 @@
 (sym_lib_table
-  (lib (name eMMC_eval-rescue)(type Legacy)(uri ${KIPRJMOD}/eMMC_eval-rescue.lib)(options "")(descr ""))
   (lib (name eMMC_eval)(type Legacy)(uri ${KIPRJMOD}/eMMC_eval.lib)(options "")(descr ""))
 )

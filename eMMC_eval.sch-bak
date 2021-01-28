@@ -196,7 +196,7 @@ Wire Wire Line
 Text Label 9400 3650 0    50   ~ 0
 SDMMC1_CMD
 Text Label 9400 3750 0    50   ~ 0
-SDMMC1_CK
+SDMMC1_CK`
 Wire Notes Line
 	9300 3950 10300 3950
 Text Notes 10250 3900 2    50   ~ 0
@@ -796,4 +796,6 @@ Text Notes 2950 5550 0    50   ~ 0
 (6)
 Text Notes 700  6150 0    50   ~ 0
 (17)
+Text Label 5100 3500 0    50   ~ 0
+SDMMC1_CK`
 $EndSCHEMATC

@@ -6,9 +6,9 @@ encoding utf-8
 Sheet 1 1
 Title "eMMC chip Evaluation Board"
 Date "2020-10-05"
-Rev "1.0"
+Rev "1.0a"
 Comp "Sid Price Design"
-Comment1 ""
+Comment1 "1.0a, changed CMD pullup to 10K"
 Comment2 ""
 Comment3 ""
 Comment4 ""
@@ -738,7 +738,7 @@ L Device:R_Small R9
 U 1 1 5FB19DC6
 P 4700 3100
 F 0 "R9" H 4759 3146 50  0000 L CNN
-F 1 "47K" H 4759 3055 50  0000 L CNN
+F 1 "10K" H 4759 3055 50  0000 L CNN
 F 2 "Resistor_SMD:R_0805_2012Metric" H 4700 3100 50  0001 C CNN
 F 3 "~" H 4700 3100 50  0001 C CNN
 	1    4700 3100
